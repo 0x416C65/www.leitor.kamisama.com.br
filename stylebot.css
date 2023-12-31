@@ -1,0 +1,8 @@
+#image-4 {
+  position: fixed;
+  inset: 0;
+  z-index: 100000000;
+  object-fit: contain;
+  height: 100vh;
+  box-shadow: 0 0 0 100vw black;
+}
