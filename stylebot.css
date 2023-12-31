@@ -1,6 +1,9 @@
+html {
+  overflow: hidden;
+  height: 100vh;
+}
 body > *:not(#stylebot) {
   pointer-events: none;
-  overflow: hidden;
 }
 .reading-content img {
   position: fixed;
