@@ -1,3 +1,6 @@
+body > *:not(#stylebot) {
+  pointer-events: none;
+}
 .reading-content img {
   position: fixed;
   inset: 0;
